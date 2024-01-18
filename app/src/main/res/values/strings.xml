@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Каршеринг</string>
+    <string name="title_home">Главная</string>
+    <string name="title_map">Карта</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_login_button">Войти</string>
+    <string name="title_reg_button">Зарегистрироваться</string>
+    <string name="name_hint">Имя</string>
+    <string name="password_hint">Пароль</string>
+    <string name="email_hint">Почта</string>
+    <string name="to_reg_button">Перейти к регистрации</string>
+    <string name="to_login_button">Перейти к авторизации</string>
+    <string name="exit_button">Выйти</string>
+    <string name="reg_entry_button">Войти или зарегистрироваться</string>
+</resources>
